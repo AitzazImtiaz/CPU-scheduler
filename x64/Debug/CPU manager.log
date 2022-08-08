@@ -1,0 +1,6 @@
+﻿  CPU manager.cpp
+C:\Users\Aitzaz Imtiaz\source\repos\CPU manager\CPU manager.cpp(234,15): warning C4101: 'm': unreferenced local variable
+C:\Users\Aitzaz Imtiaz\source\repos\CPU manager\CPU manager.cpp(234,26): warning C4101: 'k': unreferenced local variable
+C:\Users\Aitzaz Imtiaz\source\repos\CPU manager\CPU manager.cpp(234,60): warning C4101: 'temp': unreferenced local variable
+C:\Users\Aitzaz Imtiaz\source\repos\CPU manager\CPU manager.cpp(234,51): warning C4101: 'Wtm': unreferenced local variable
+  CPU manager.vcxproj -> C:\Users\Aitzaz Imtiaz\source\repos\CPU manager\x64\Debug\CPU manager.exe
